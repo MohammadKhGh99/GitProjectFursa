@@ -20,7 +20,10 @@ parts/
 sdist/
 var/
 wheels/
+<<<<<<< HEAD
 pip-wheel-metadata/
+=======
+>>>>>>> GitProjectAnother/main
 share/python-wheels/
 *.egg-info/
 .installed.cfg
@@ -50,6 +53,10 @@ coverage.xml
 *.py,cover
 .hypothesis/
 .pytest_cache/
+<<<<<<< HEAD
+=======
+cover/
+>>>>>>> GitProjectAnother/main
 
 # Translations
 *.mo
@@ -72,6 +79,10 @@ instance/
 docs/_build/
 
 # PyBuilder
+<<<<<<< HEAD
+=======
+.pybuilder/
+>>>>>>> GitProjectAnother/main
 target/
 
 # Jupyter Notebook
@@ -127,3 +138,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
